@@ -4,5 +4,9 @@ public class Test {
 
         System.out.print("Toto");
 
+
+        System.out.print("Toto");
+        System.out.print("Toto");
+
     }
 }
